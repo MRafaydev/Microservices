@@ -12,25 +12,13 @@ Microservices connected by an API Gateway using Netflix Zuul and Netflix Eureka.
 
 The application consists of 7 different Microservices
 
--   [shoes-microservice-spring-boot](https://github.com/sarat9/microservices-architect-config-starter/tree/main/shoes-microservice-spring-boot)  - Spring Boot App with Shoe data
--   [offers-microservice-spring-boot](https://github.com/sarat9/microservices-architect-config-starter/tree/main/offers-microservice-spring-boot)  - Spring Boot App with Offers data
--   [cart-microservice-nodejs](https://github.com/sarat9/microservices-architect-config-starter/tree/main/cart-microservice-nodejs)  - Node.js App with Cart data
--   [wishlist-microservice-python](https://github.com/sarat9/microservices-architect-config-starter/tree/main/wishlist-microservice-python)  - Python App with Wishlist data
--   [zuul-api-gateway](https://github.com/sarat9/microservices-architect-config-starter/tree/main/zuul-api-gateway)  - API gateway that proxies all the micro-services with Neflix Zuul
--   [eureka-discovery-server](https://github.com/sarat9/microservices-architect-config-starter/tree/main/eureka-discovery-server)  - Service Registration and Discovery Server with Netflix Eureka
--   [ui-web-app-reactjs](https://github.com/sarat9/microservices-architect-config-starter/tree/main/ui-web-app-reactjs)  - Single Page Application that provides the UI
-
-
-*Optional* - [config-server-spring-boot](https://github.com/sarat9/config-server-spring-boot) repo has a config server service, you can chose to connect them if you want. It is different repository. 
-
-
-##
-
-
-![MicroService Architeture ](https://miro.medium.com/max/1050/1*kSLJKEl3X-gKNTpO1l7SQg.png)# Microservices Architecture Sample!
-
-#
-#
+-   [shoes-microservice-spring-boot]  - Spring Boot App with Shoe data
+-   [offers-microservice-spring-boot] - Spring Boot App with Offers data
+-   [cart-microservice-nodejs] - Node.js App with Cart data
+-   [wishlist-microservice-python]  - Python App with Wishlist data
+-   [zuul-api-gateway])  - API gateway that proxies all the micro-services with Neflix Zuul
+-   [eureka-discovery-server] - Service Registration and Discovery Server with Netflix Eureka
+-   [ui-web-app-reactjs] - Single Page Application that provides the UI
 
 # Microservices
 Crafting Microservices now become an industry standard for any new API development, and almost all the organizations are promoting it.
